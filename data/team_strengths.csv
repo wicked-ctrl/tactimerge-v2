@@ -1,3 +1,5 @@
-,atk_home,def_home,atk_away,def_away
-Arsenal,1.85,0.95,1.85,1.85
-Chelsea,1.85,1.85,0.95,1.85
+team,atk_home,def_home,atk_away,def_away
+Arsenal,1.80,1.05,1.40,1.15
+Manchester United,1.75,1.10,1.35,1.20
+Liverpool,1.85,1.00,1.45,1.10
+Chelsea,1.70,1.15,1.30,1.25
